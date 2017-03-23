@@ -1,16 +1,15 @@
-Name of QuantLet : HistofCor
+Name of QuantLet : Q1_DataPrep_BikeRentalSeattle
 
-Published in : Psychological diagnostics
+Published in : Statistical Programming Languages_HU
 
-Description: Plots a histogram of correlations to make Simpson's paradox visible.
+Description: Data preparation and cleaning of a bike rental dataset of Seattle USA.
 
-Keywords: plot, vizualization, random, histogram, correlation, clustering, confidence-interval, mean
+Keywords: plot, vizualization
 
-Author: Kai Horstmann [New], Caroline Wehner [New]
+Author: Isabel Chaquire
 
-Datafile: bh1996
+Datafile: ICh_SPL_HU_WiSe 2016-2017
 
-Input: Data frame with one level and a cluster variable, e. g. PISA data.
+Input: Data frame of bikerental dataset of city Seattle
 
-Output: 'A histogram of correlations, [[1]] group means for both level-1 variables as well
-        as their correlations and [[2]] correlation plus CI for overall means.'
+Output: A cleaned datafile.csv ready to be analyzed
