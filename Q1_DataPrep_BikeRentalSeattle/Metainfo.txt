@@ -13,3 +13,4 @@ Datafile: ICh_SPL_HU_WiSe 2016-2017
 Input: Data frame of bikerental dataset of city Seattle
 
 Output: A cleaned datafile.csv ready to be analyzed
+Output: 3D Plots with 4 methods 
