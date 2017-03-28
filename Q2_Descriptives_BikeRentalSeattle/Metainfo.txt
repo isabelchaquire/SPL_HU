@@ -1,0 +1,15 @@
+Name of QuantLet : Q2_Descriptives_BikeRentalSeattle
+
+Published in : Statistical Programming Languages_HU
+
+Description: Basic descriptives of a bike rental dataset of Seattle USA.
+
+Keywords: plot, vizualization, descriptive
+
+Author: Isabel Chaquire
+
+Datafile: ICh_Q2_SPL_HU_WiSe 2016-2017
+
+Input: Data frame of bikerental dataset of city Seattle
+
+Output: Descriptive of bike rental of Seattle
