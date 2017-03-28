@@ -1,0 +1,15 @@
+Name of QuantLet : Q3_ModellDistributions_BikeRentalSeattle
+
+Published in : Statistical Programming Languages_HU
+
+Description: Regression Models, Poisson, Quassipoisson, Negative binomial, transformed linear, backward linear regression
+
+Keywords: plot, vizualization, descriptive
+
+Author: Isabel Chaquire
+
+Datafile: ICh_Q2_SPL_HU_WiSe 2016-2017
+
+Input: Data frame of bikerental dataset of city Seattle
+
+Output: Modell Distributions: Poisson, Quassi-poisson, negative binomial, transformed linear regression, backward linear
